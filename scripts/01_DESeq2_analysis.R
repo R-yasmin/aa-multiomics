@@ -8,11 +8,6 @@
 #             DESeq2_full_results.csv
 #             DESeq2_significant_DEGs.csv
 #
-# Author       : Rojina Yasmin
-# Affiliation  : Biomedical Genetics Laboratory, Department of Zoology,
-#                University of Burdwan, West Bengal, India
-# License      : MIT (see LICENSE in the repository root)
-#
 # -----------------------------------------------------------------------------
 # How to run
 # -----------------------------------------------------------------------------

@@ -25,11 +25,6 @@
 #   - PCA before removing low-count genes  (log2(x+1))
 #   - PCA after removing low-count genes    (VST, DESeq2 default)
 #
-# Author       : Rojina Yasmin
-# Affiliation  : Biomedical Genetics Laboratory, Dept. of Zoology,
-#                University of Burdwan, West Bengal, India
-# License      : MIT
-#
 # Dependencies:
 #   Bioconductor : DESeq2
 #   CRAN         : ggplot2, ggrepel

@@ -2,8 +2,6 @@
 # GSE242216 miRNA differential expression: AA vs Healthy Control
 # ---------------------------------------------------------------------------
 # Dataset      : GEO GSE242216 (NanoString nCounter Human v3 miRNA panel)
-# Comparison   : Aplastic anaemia (AA) vs Healthy Control (MDS samples excluded)
-# Model        : limma, ~ run + group (cartridge run as fixed-effect covariate)
 # Thresholds   : adj.P < 0.05 AND |log2FC| >= 2 for DE call
 #
 # Reproducibility
@@ -17,14 +15,6 @@
 #   2. Rscript GSE242216_miRNA.R
 #   3. Outputs written to ./miRNA_results/
 #
-# Repository layout expected
-#   ├── GSE242216_miRNA.R          # this script
-#   ├── RCC_files/                 # user-provided RCC inputs
-#   └── miRNA_results/             # created at runtime
-#
-# Author       : Biomedical Genetics Laboratory, Dept. of Zoology,
-#                University of Burdwan, West Bengal, India
-# License      : MIT
 ###############################################################################
 
 # ---- 0. Dependency check --------------------------------------------------
