@@ -1,0 +1,7 @@
+Library size summary (raw counts, per sample) - GSE165870
+------------------------------------------------------------
+N samples : 9
+Minimum   : 565079  (Ctrl7)
+Median    : 2104995
+Maximum   : 5897738  (Ctrl2)
+Range     : 10.4-fold
